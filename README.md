@@ -1,1 +1,2 @@
-this is my readme file.
+these are the code of first assignment.
+
